@@ -1,6 +1,6 @@
 # Urban Routes End-to-End Tests
 
-This project consists of 9 automated tests covering the full process of ordering a taxi.
+### This project consists of 9 automated tests covering the full process of ordering a taxi.
 
 1. Setting the address and checking that the entered value matches the input
 2. Selecting Supportive plan and checking that Blanket and handkerchiefs elemt is visible on page, because it is only in this plan
@@ -12,4 +12,4 @@ This project consists of 9 automated tests covering the full process of ordering
 8. The car search modal appears and checking that the words "Car search" appear
 9. The driver info appears and checking that the corresponding modal exists on the screen
 
-To run tests use the following command: npm run wdio
+To run tests use the following command: ``` npm run wdio
