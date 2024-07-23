@@ -12,4 +12,4 @@
 8. The car search modal appears and checking that the words "Car search" appear
 9. The driver info appears and checking that the corresponding modal exists on the screen
 
-To run tests use the following command: ``` npm run wdio
+To run tests use the following command: ``` npm run wdio ```
